@@ -47,7 +47,9 @@ body {
 
 
 }
-
+section.regras ul li{
+    margin-bottom: 15px;
+}
 .header div.scroll {
     position: absolute;
     z-index: 100;
